@@ -39,13 +39,6 @@ Model Order Reduction (MOR) is a powerful mathematical framework used to reduce 
 - Integrate with Simulink models
 - Add GUI for interactive experimentation
 
-## 🤝 Contribution
-
-Feel free to fork, star 🌟, or submit pull requests. Suggestions and improvements are always welcome.
-
-## 📫 Contact
-
-For questions or collaborations:
 **SADA MOUBAREK**  
 📍 Algeria  
 ✉️ [saada.moubarek@gmail.com]  
