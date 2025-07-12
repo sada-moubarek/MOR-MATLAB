@@ -10,7 +10,15 @@
 
 ## 🚀 About Me
 
+I am a PhD student, passionate about understanding and applying Model Order Reduction (MOR) techniques using MATLAB. My research aims to simplify complex dynamical systems to improve simulation and control, with a strong focus on mathematical accuracy and computational efficiency.
 
+As a PhD researcher:
+
+I explore key Model Order Reduction (MOR) methods such as POD, Krylov, and Balanced Truncation.
+
+I am constantly learning through experimentation and collaboration.
+
+I am open to feedback, advice, and knowledge sharing to deepen my understanding and hone my skills.
 
 # 🧠 Model Order Reduction with MATLAB
 
