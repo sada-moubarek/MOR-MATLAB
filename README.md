@@ -48,9 +48,4 @@ Feel free to fork, star 🌟, or submit pull requests. Suggestions and improveme
 For questions or collaborations:
 **SADA MOUBAREK**  
 📍 Algeria  
-✉️ [saada.moubarek@GMAIL.com]  
-🔗 [LinkedIn or GitHub Profile]
-
----
-
-هل ترغب أن أكتب لك أيضًا ملف `LICENSE.md` أو ملف `CONTRIBUTING.md` لجعل مشروعك أكثر احترافية؟ أو حتى مساعدتك في كتابة الكود نفسه في MATLAB؟ أنا جاهز وبكل سرور. 😄
+✉️ [saada.moubarek@gmail.com]  
