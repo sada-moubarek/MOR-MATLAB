@@ -10,18 +10,7 @@
 
 ## 🚀 About Me
 
-<h1 align="center">Hi, I'm SADA MOUBAREK 👋</h1>
-<h3 align="center">MATLAB Researcher 🧠 | Model Order Reduction Enthusiast 📉 | Explorer of Control Systems ⚙️</h3>
 
-<p align="center">
-  <a href="mailto:saada.moubarek@gmail.com"><img src="https://img.shields.io/badge/Gmail-saada.moubarek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sada-moubarek"><img src="https://img.shields.io/badge/LinkedIn-SADA%20MOUBAREK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SADA-MOR-MATLAB"><img src="https://img.shields.io/badge/GitHub-SADA--MOR--MATLAB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
 # 🧠 Model Order Reduction with MATLAB
 
@@ -72,14 +61,4 @@ Suggestions, corrections, and insights are warmly welcome.
 
 **SADA MOUBAREK**  
 📍 Algeria  
-✉️ saada.moubarek@gmail.com  
-🔗 [LinkedIn - SADA MOUBAREK](https://www.linkedin.com/in/sada-moubarek)
-
----
-
-## ⚡️ Motto
-
-> **“Every simplified model is a step toward clearer understanding.”**
-
-
-
+✉️ saada.moubarek@gmail.com
